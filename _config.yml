@@ -7,8 +7,8 @@ include:     ['.htaccess']
 exclude:     []
 markdown: kramdown
 name: 'Chi Kung Stories'
-description: 'Ideas and insights about daily practice'
+description: 'Your life, your practice'
 url: 'http://chikungstories.com'
 safe: true
 lsi: false
-highlighter: 'pygments'
+highlighter: 'rouge'
